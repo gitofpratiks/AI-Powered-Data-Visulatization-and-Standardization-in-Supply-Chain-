@@ -90,4 +90,4 @@ Feel free to fork this repository, open issues, or submit pull requests!
 
 📩 Contact
 
-📧 Email: pratiksp05@example.com🔗 GitHub: @gitofpratiks
+📧 Email: pratiksp05@gmail.com🔗 GitHub: @gitofpratiks
